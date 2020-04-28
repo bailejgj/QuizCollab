@@ -1,21 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sarah\\Desktop\\Joshy Shtuff\\Portfolio\\QuizWebApp\\QuizCollab\\QuizCollab.csproj": {}
+    "C:\\Users\\Da Famous G\\Desktop\\prog\\Collabs\\QuizCollab\\QuizCollab.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sarah\\Desktop\\Joshy Shtuff\\Portfolio\\QuizWebApp\\QuizCollab\\QuizCollab.csproj": {
+    "C:\\Users\\Da Famous G\\Desktop\\prog\\Collabs\\QuizCollab\\QuizCollab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sarah\\Desktop\\Joshy Shtuff\\Portfolio\\QuizWebApp\\QuizCollab\\QuizCollab.csproj",
+        "projectUniqueName": "C:\\Users\\Da Famous G\\Desktop\\prog\\Collabs\\QuizCollab\\QuizCollab.csproj",
         "projectName": "QuizCollab",
-        "projectPath": "C:\\Users\\sarah\\Desktop\\Joshy Shtuff\\Portfolio\\QuizWebApp\\QuizCollab\\QuizCollab.csproj",
-        "packagesPath": "C:\\Users\\sarah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sarah\\Desktop\\Joshy Shtuff\\Portfolio\\QuizWebApp\\QuizCollab\\obj\\",
+        "projectPath": "C:\\Users\\Da Famous G\\Desktop\\prog\\Collabs\\QuizCollab\\QuizCollab.csproj",
+        "packagesPath": "C:\\Users\\Da Famous G\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Da Famous G\\Desktop\\prog\\Collabs\\QuizCollab\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\sarah\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Da Famous G\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
